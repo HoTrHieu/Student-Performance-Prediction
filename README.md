@@ -80,7 +80,7 @@ If you prefer to use Docker, you can install and run the project using a Docker 
 2. **Run the Docker Container**
    - Start the Docker container by running the following command, and mapping any necessary ports:
      ```
-     docker run -p 5000:5000 kalyan45/student-app
+     docker run -p 5000:8080 kalyan45/student-app
      ```
 
 3. **Access the Project**
